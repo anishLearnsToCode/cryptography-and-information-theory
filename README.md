@@ -1,5 +1,14 @@
 # Cryptography and Information Theory ~University of Colorado   
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/cryptography-and-information-theory)
+![made-with-Java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+[![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
+[![specialization](https://img.shields.io/badge/specialization-Applied%20Cryptography-1f72ff.svg)](https://github.com/anishLearnsToCode/applied-cryptography)
+
+Part of the larger 
+[Applied Cryptography](https://github.com/anishLearnsToCode/applied-cryptography)
+Specialization on Coursera.
 
 ## Index
 - [Week 1: Cryptography Overview](#week-1-cryptography-overview)
