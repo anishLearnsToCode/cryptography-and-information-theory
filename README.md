@@ -22,7 +22,7 @@ by the University of Colorado. This is the first course in this specialization.
 
 ## Week 2: Information Entropy
 - [Practice Quiz - Throwing a Dice](week2/practice-quiz-throwing-a-dice.md)
-- [Quiz - Entropy: Balls in A Bin](week2)
+- [Quiz - Entropy: Balls in A Bin](week2/quiz-entropy-balls-in-a-bin.md)
 
 ## Week 3: Brute Force Attacks and Crypt Analysis
 - [Quiz - Brute Force Attack, Cryptanalysis and One Time Pad]()
