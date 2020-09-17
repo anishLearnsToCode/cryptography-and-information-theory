@@ -1,4 +1,5 @@
-# Cryptography and Information Theory ~University of Colorado   
+# Cryptography and Information Theory @Coursera
+__~University of Colorado__
 
 [![specialization](https://img.shields.io/badge/specialization-Applied%20Cryptography-1f72ff.svg)](https://github.com/anishLearnsToCode/applied-cryptography)
 [![course-list](https://img.shields.io/badge/also%20see-Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list#coursera)
@@ -20,9 +21,12 @@ by the University of Colorado. This is the first course in this specialization.
 - [Discussion Prompt: Discuss the pros and cons of the two contrasting principles, Kerckhoff's Principle vs. Security by Obscurity]()
 
 ## Week 2: Information Entropy
+- [Quiz - Entropy: Balls in A Bin]()
 
 ## Week 3: Brute Force Attacks and Crypt Analysis
+- [Quiz - Brute Force Attack, Cryptanalysis and One Time Pad]()
 
 ## Week 4: Computational Security and Side-Channel Attacks
+- No quizzes or assignments
 
 ## [🎓]() Certificate
