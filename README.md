@@ -25,7 +25,7 @@ by the University of Colorado. This is the first course in this specialization.
 - [Quiz - Entropy: Balls in A Bin](week2/quiz-entropy-balls-in-a-bin.md)
 
 ## Week 3: Brute Force Attacks and Crypt Analysis
-- [Quiz - Brute Force Attack, Cryptanalysis and One Time Pad]()
+- [Quiz - Brute Force Attack, Cryptanalysis and One Time Pad](week3/quiz-brute-force-attack-cryptanalysis.md)
 
 ## Week 4: Computational Security and Side-Channel Attacks
 - No quizzes or assignments
