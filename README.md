@@ -21,7 +21,8 @@ by the University of Colorado. This is the first course in this specialization.
 - [Discussion Prompt: Discuss the pros and cons of the two contrasting principles, Kerckhoff's Principle vs. Security by Obscurity]()
 
 ## Week 2: Information Entropy
-- [Quiz - Entropy: Balls in A Bin]()
+- [Practice Quiz - Throwing a Dice](week2/practice-quiz-throwing-a-dice.md)
+- [Quiz - Entropy: Balls in A Bin](week2)
 
 ## Week 3: Brute Force Attacks and Crypt Analysis
 - [Quiz - Brute Force Attack, Cryptanalysis and One Time Pad]()
