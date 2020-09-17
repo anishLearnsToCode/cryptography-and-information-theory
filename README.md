@@ -18,7 +18,7 @@ by the University of Colorado. This is the first course in this specialization.
 ## Week 1: Cryptography Overview
 - [Peer Graded Assignment: Alice-Bob-Eve Framework](week1/Caesar%20Cipher%20Alice-Bob-Eve.pdf)
 - [Kerchoff's Principle and Security by Obscurity](week1/kerchoffs-principles-security-by-obscurity-quiz.md)
-- [Discussion Prompt: Discuss the pros and cons of the two contrasting principles, Kerckhoff's Principle vs. Security by Obscurity]()
+- [Discussion Prompt: Discuss the pros and cons of the two contrasting principles, Kerckhoff's Principle vs. Security by Obscurity](week1/discussion-prompt.md)
 
 ## Week 2: Information Entropy
 - [Practice Quiz - Throwing a Dice](week2/practice-quiz-throwing-a-dice.md)
@@ -30,4 +30,5 @@ by the University of Colorado. This is the first course in this specialization.
 ## Week 4: Computational Security and Side-Channel Attacks
 - No quizzes or assignments
 
-## [🎓]() Certificate
+## [🎓](http://coursera.org/verify/XPFM28CP9KHX) Certificate
+![certificate](assets/certificate.PNG)
